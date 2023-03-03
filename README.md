@@ -1,3 +1,4 @@
+![yes, i'm author of this quote. pls stop bully me XD](https://github.com/DiKiyBimer/DiKiyBimer/blob/main/myTheLogicalExplanationQuote.png)
 <h1 align="center">Hi there 👋 My name is Vitaliy, but you can call me DiKiyBimer.</h1>
 <h3 align="center">I begun as a Quality Controller in composites company, but once I show them that Excel is not only cells... :D</h3>
 
