@@ -1,15 +1,18 @@
 # <----Back / IDE / FW---->
-### InteliJ / AStudio
-### NetBeans (at workstation xd)
-### ubuntu > windows (faster)
+### InteliJ / Webstorm
+### ubuntu > windows
 
-# <----SQL---->
-### pgAdmin 4
-### DBeaver
+# <----3rdParty-Tools---->
+### MobaXTerm (command line)
+### HTTPie (http request-response test tool)
+### Pulsar (text-editor a.k.a. 'Modern' Atom)
 
-# <----GUI---->
-### Gluon (Scene Builder)
-### OpenJFX
+# <----WebBrowser for Developing---->
+### Firefox for Developers
+
+# <----Front---->
+### React.js
+### Thymeleaf (rarely, for musthave view in backend services)
 
 
 
