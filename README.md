@@ -1,4 +1,4 @@
-# *Hello everyone, who has found this deep corner of GitHub* 👋
+# *Greetings to every user who has found themselves in such a deep hole of GitHub like this.* 👋
 ## *My name is Vitaliy, sometimes ViGo. In network - DiKiyBimer*  
 
 [Patreon](https://www.patreon.com/DiKiyBimer) | [GitHub](https://github.com/DiKiyBimer) | [E-Mail For Business (java / vba / videomaking)](mailto:vigo.commercial@icloud.com)  
