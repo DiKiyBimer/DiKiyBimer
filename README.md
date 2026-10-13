@@ -1,12 +1,26 @@
-# *Greetings to every user who has found themselves in such a deep hole of GitHub like this.* 👋
-## *My name is Vitaliy, sometimes ViGo. In network - DiKiyBimer*  
+#### *Firstname: Vitaliy*  
+#### *In network more known as: VG / ViGo / DiKiyBimer*   
+#### *In coding since:* 
+- as hobby with understanding - 09.2008 (i was 9... :D),
+- as work - 06.2019
+#### *imo i'm competetive since: ~01.2022*  
+
+
+<details> 
+  
+<summary>maybe someone need...</summary>
 
 [Patreon](https://www.patreon.com/DiKiyBimer) | [GitHub](https://github.com/DiKiyBimer) | [E-Mail For Business (java / vba / videomaking)](mailto:vigo.commercial@icloud.com)  
+</details> 
+
+
   
 `Begun as a Quality Controller of composites products in Polish company - Then found myself as Software Developer :D`  
  `Just once discovered VBA and showed everyone that Excel is not only about cells...`
-
-## An Ordinary Day 
+ 
+<details> 
+  
+<summary>Shortly but a little bit long about my day when i got a dev job</summary> 
 
 **🔭 To many, it might have seemed like just another ordinary day**  
 ***There I was, seated on my *b♣tt*, kicking off one of my VBA projects.***  
@@ -54,9 +68,14 @@ About decision with ruby - I rue. Ruby proved to be a formidable opponent,
 leaving me waving the white flag in defeat. As painful as that experience was,  
 it taught me a valuable lesson. consistently, I no longer engage with Ruby.
 ```
-Despite the relentless repetition inherent in these tasks, I unearthed a profound sense of fulfillment in my endeavors.
+Despite the relentless repetition inherent in these tasks, I unearthed a profound sense of fulfillment in my endeavors.  
 
-## Current Skills
+</details>
+
+<details>
+
+<summary> Current Skills </summary>  
+
 ### Java
 <div align="center">
 My undisputed queen and the tool that never fails to captivate me. Primarily, I immerse myself in the realm of modern Java, particularly focusing on web applications—whether it's backend development, crafting scheduled console applications with web access to dynamically changing configurations, or delving into microservices and cloud architecture. In 90% of my projects, I wield the power of the Spring framework, although occasionally, I venture into less conventional territories such as AI or data analysis. (Yes, my heart belongs to Java, but I hold a deep respect for Python's prowess in data manipulation, even though it's not my cup of tea.)
@@ -84,7 +103,7 @@ Although relatively new to me, Rust has already proven its worth with its produc
 <div align="center">
 Oh, and let's not overlook the radiant beacon of my existence—music crafting. While it may currently reside in the shadows cast by the dazzling allure of digital innovations, its significance in my life remains steadfast and resolute.
 </div>
-
+</details>
 
 ***If you've journeyed this far alongside me, I extend my heartfelt gratitude for your patience.***  
 *But 😄 I think you just bored.*
