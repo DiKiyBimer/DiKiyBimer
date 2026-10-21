@@ -6,6 +6,9 @@
 #### *imo i'm competetive since: ~01.2022*  
 
 
+<a href="https://www.buymeacoffee.com/vgsh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Beer for me ?" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 <details> 
   
 <summary>maybe someone need...</summary>
